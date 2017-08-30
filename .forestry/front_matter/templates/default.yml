@@ -1,0 +1,8 @@
+---
+hide_body: false
+fields:
+- name: sub-title
+  default: ''
+  label: Sub title
+  type: text
+  hidden: false
