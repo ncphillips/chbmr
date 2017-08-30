@@ -1,6 +1,6 @@
 ---
 title: Mary-Ann MacSwain
-date: 2016-11-08 00:00
+date: 2016-11-08 00:00:00 +0000
 layout: person
 sub-title: Data Analyst
 thumbnail: assets/images/MacSwain-Mary-Ann-1.jpg

@@ -1,7 +1,7 @@
 ---
 PDF: assets/images/test3.pdf
 author: Mary-Ann MacSwain, Michelle Patterson, George Kephart, Juergen Krause
-date: '2017-07-21T16:06:40+00:00'
+date: 2017-07-21 16:06:40 +0000
 layout: text
 link: ''
 pdf: assets/images/Drivers of High Cost Healthcare Usage Final with Authors.pdf
