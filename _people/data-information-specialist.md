@@ -1,7 +1,7 @@
 ---
 layout: person
 sub-title: Data Information Specialist
-thumbnail: assets/images/Robyn Kydd 3 448x640.jpg
+thumbnail: assets/images/Robyn Kydd 4 505x505.jpg
 tags: []
 email: rkydd@upei.ca
 linkedin: ''
