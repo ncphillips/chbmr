@@ -1,4 +1,9 @@
 ---
+pages:
+- _projects/2016-05-17-sidr.html
+- _projects/2016-05-17-training.html
+- _projects/sarv.html
+- _projects/spor-and-mssu-pei.html
 hide_body: false
 fields:
 - name: description

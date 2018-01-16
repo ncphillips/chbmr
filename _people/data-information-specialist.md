@@ -7,7 +7,7 @@ tags:
 email: rkydd@upei.ca
 linkedin: ''
 title: Robyn Kydd
-date: 2017-12-13 11:22:16 +0000
+date: 2017-12-13 07:22:16 -0400
 ---
 Robyn Kydd joined the CHCR in 2017 as an Information Specialist. She received her MSc in Community Health and Epidemiology (University of Saskatchewan), and also has a DVM (University of Saskatchewan) and BSc (University of Victoria). 
 

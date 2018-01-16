@@ -1,15 +1,15 @@
 ---
 pages:
-- _people/data-information-specialist.md
-- _people/2016-05-13-cheryl-paula.html
+- _people/juergen-krause.html
 - _people/michelle-patterson.html
-- _people/2016-05-13-dr-micheal-mayne.html
 - _people/2016-05-13-dr-christian-lacroix.html
+- _people/2016-05-13-dr-micheal-mayne.html
+- _people/2016-05-13-dr-robert-gilmour.html
 - _people/2016-05-13-lukas-marriott.html
 - _people/2016-05-17-dr-nadeem-dada.html
-- _people/2016-05-13-dr-robert-gilmour.html
-- _people/juergen-krause.html
 - _people/mary-ann-macswain.md
+- _people/2016-05-13-cheryl-paula.html
+- _people/data-information-specialist.md
 hide_body: false
 fields:
 - name: title
